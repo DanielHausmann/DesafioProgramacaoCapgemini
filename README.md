@@ -19,7 +19,7 @@ git clone https://github.com/DanielHausmann/DesafioProgramacaoCapgemini.git
 cd DesafioProgramacaoCapgemini/src/desafioprogramacaocapgemini
 
 # Executar o Projeto
-java DesafioCapgeminiProgramacao.java
+java DesafioProgramacaoCapgemini.java
 
 ```
 Ou simplesmente clone o repositório com:
