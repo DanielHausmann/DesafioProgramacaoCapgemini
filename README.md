@@ -16,10 +16,10 @@ Pré-Requisito: Java 8 ou Superior
 git clone https://github.com/DanielHausmann/DesafioProgramacaoCapgemini.git
 
 # Entrar na pasta do Projeto
-cd DesafioProgramacaoCapgemini/src
+cd DesafioProgramacaoCapgemini/src/desafioprogramacaocapgemini
 
 # Executar o Projeto
-
+java DesafioCapgeminiProgramacao.java
 
 ```
 
