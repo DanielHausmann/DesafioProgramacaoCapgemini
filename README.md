@@ -2,7 +2,7 @@
 
 ## SOBRE O PROJETO
 
-Resolução do desafio de programação para a Academia Técnica Capgemini 2022
+Solução do desafio de programação para a Academia Técnica Capgemini 2022
 
 ## Tecnologia Utilizada
 
@@ -22,4 +22,10 @@ cd DesafioProgramacaoCapgemini/src/desafioprogramacaocapgemini
 java DesafioCapgeminiProgramacao.java
 
 ```
+Ou simplesmente clone o repositório com:
 
+```bash
+# Clonar Repositório
+git clone https://github.com/DanielHausmann/DesafioProgramacaoCapgemini.git
+```
+abra uma IDE ou editor de texto de sua preferência, abra o projeto e rode o código normalmente
